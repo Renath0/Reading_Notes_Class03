@@ -3,15 +3,15 @@
 En el mundo de la programación la gestión de versiones es fundamental para garantizar un flujo de trabajo fluido y colaborativo, el versionamiento local, remoto y distribuido son componentes esenciales para un mejor desarrollo de proyectos.
 En esta oportunidad vamos a comprender los conceptos de versionamiento local, remoto y distributivo.
 ## Desarrollo
-### El versionamiento local:
+### - El versionamiento local:
  Se refiere al proceso de controlar y gestionar las versiones de un proyecto dentro de un terminal local. 
-### El versionamiento remoto:
+### - El versionamiento remoto:
  Esto implica la colaboración entre múltiples desarrolladores que trabajan en el mismo proyecto, pero desde ubicaciones diferentes. En este contexto, los repositorios remotos, alojados en plataformas como GitHub, juegan un papel importante ya que los desarrolladores pueden clonar e  enviar sus cambios a estos repositorios remotos.
 ```
 git clone URL_del_repositorio_en_GitHub
 ```
 
-### El versionamiento distribuido:
+### - El versionamiento distribuido:
  Como muestra en el papaer lleva a la colaboración un paso más allá, el cual permitie que cada desarrollador tenga una copia completa del repositorio en su terminal local. Esto significa que cada desarrollador tiene acceso a todo el historial de versiones y puede trabajar de forma independiente sin conexión a internet.
 
 ## Conclusión
@@ -33,7 +33,7 @@ git clone URL_del_repositorio
 git add nombre_del_archivo
 ```
 ### ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
- El comando para tomar una instantánea de los archivos modificados y prepararlos para un commit es git add ..
+ El comando para tomar una instantánea de los archivos modificados y prepararlos para un commit es git add .
 ```
 git add .
 ```
