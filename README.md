@@ -12,7 +12,7 @@ git clone URL_del_repositorio_en_GitHub
 ```
 
 ### - El versionamiento distribuido:
- Como muestra en el papaer lleva a la colaboración un paso más allá, el cual permitie que cada desarrollador tenga una copia completa del repositorio en su terminal local. Esto significa que cada desarrollador tiene acceso a todo el historial de versiones y puede trabajar de forma independiente sin conexión a internet.
+ Como muestra en el paper lleva a la colaboración un paso más allá, el cual permitie que cada desarrollador tenga una copia completa del repositorio en su terminal local. Esto significa que cada desarrollador tiene acceso a todo el historial de versiones y puede trabajar de forma independiente sin conexión a internet.
 
 ## Conclusión
  En resumen, el versionamiento local, remoto y distribuido son aspectos esenciales de la gestión de versiones en el desarrollo de software. La herramienta Git y las plataformas de alojamiento de repositorios remotos, hace que los desarrolladores pueden colaborar de manera eficiente, rastrear cambios y mantener la integridad del proyecto.
