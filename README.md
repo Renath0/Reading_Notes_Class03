@@ -37,7 +37,7 @@ git add nombre_del_archivo
 ```
 git add .
 ```
-###¿Cuál es el comando para enviar los archivos modificados a GitHub?
+### ¿Cuál es el comando para enviar los archivos modificados a GitHub?
  El comando para enviar los archivos modificados al repositorio remoto en GitHub es git push.
 ```
 git push
